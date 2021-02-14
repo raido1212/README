@@ -2,7 +2,7 @@
 
 UnityTetlis
 　仕様ツール　Unity
-　苦労した点　GetComponentを極力使用しない方法を模索して作ったのが苦労した点です。
+　苦労した点　GetComponentを使用すると処理が重くなるため、極力使用しない方法を模索して作ったのが苦労した点です。
 　開発期間　　2日
 
 UseKinectGame
@@ -24,12 +24,3 @@ ChangeGravity
    使用ツール　visual studio 2015
    苦労した点　クラスの理解と使い方を理解することが苦労した点。
    開発期間　　1カ月
-
-
-2day(未完成)
-　2日間で作成したPvPシューティングゲーム
-
-winshootinggame(未完成)
-　windowsAPIを使用してシューティングゲームを作ろうとした。
-　だが、今windowsAPIを学んだところで何に使えるのか考えたところ
-　特に思い浮かばなかったため進めていない
