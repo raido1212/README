@@ -12,7 +12,7 @@ UnityTetlis
 UseKinectGame
    使用ツール　visual studio 2017
    使用機材　 kinect for windows
-   苦労した点　Ｋｉｎｅｃｔ v1.6の情報を検索しても少なく、
+   苦労した点   Kinect sdk v1.8の情報を検索しても少なく、
 　　　　　　　　　サンプルをビルドしてもエラーになった。
 　　　　　　　　　そのため、Kinectの本や海外サイトを見てなんとか作成することができた。
    開発期間　　3カ月
